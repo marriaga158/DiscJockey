@@ -1,0 +1,30 @@
+{
+  "name": "discjockey",
+  "version": "1.0.0",
+  "description": "A Discord bot that plays CAH but people submit songs for the white cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marriaga158/DiscJockey.git"
+  },
+  "keywords": [
+    "Discord",
+    "Cards",
+    "Against",
+    "Humanity",
+    "Game"
+  ],
+  "author": "Marco Arriaga",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/marriaga158/DiscJockey/issues"
+  },
+  "homepage": "https://github.com/marriaga158/DiscJockey#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
